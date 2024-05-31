@@ -1,3 +1,4 @@
+
 # Alistaire Designer Hub
 
 A comprehensive drag-and-drop designer hub built with Flutter, designed to provide a seamless and interactive user experience. This project incorporates advanced UI components, state management, and CI/CD integration for streamlined development and deployment.
@@ -29,42 +30,46 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repository
    ```sh
    git clone https://github.com/your-username/alistaire_designer_hub.git
-Change directory into the project folder
-sh
-Always show details
+   ```
+2. Change directory into the project folder
+   ```sh
+   cd alistaire_designer_hub
+   ```
+3. Install dependencies
+   ```sh
+   flutter pub get
+   ```
 
-Copy code
-cd alistaire_designer_hub
-Install dependencies
-sh
-Always show details
+### Running the App
 
-Copy code
-flutter pub get
-Running the App
-sh
-Always show details
-
-Copy code
+```sh
 flutter run
-Usage
-Dropdown Menu: Select options from a drop-down list.
-Draggable Components: Drag components to rearrange them within the UI.
-Resizable Panels: Adjust the size of panels by dragging their edges.
-Hidden Sidebar: Hover over the sidebar to reveal additional options.
-Animated Buttons: Use buttons with engaging animations to enhance UX.
-Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+```
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
+## Usage
 
-Contact
-Your Name - @your-twitter-handle - email@example.com
+- **Dropdown Menu**: Select options from a drop-down list.
+- **Draggable Components**: Drag components to rearrange them within the UI.
+- **Resizable Panels**: Adjust the size of panels by dragging their edges.
+- **Hidden Sidebar**: Hover over the sidebar to reveal additional options.
+- **Animated Buttons**: Use buttons with engaging animations to enhance UX.
 
-Project Link: https://github.com/your-use
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - email@example.com
+
+Project Link: [https://github.com/your-username/alistaire_designer_hub](https://github.com/your-username/alistaire_designer_hub)
